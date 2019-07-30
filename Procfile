@@ -1,1 +1,1 @@
-web: gunicron crud.wsgi --log-file-
+web: gunicron board.wsgi --log-file -
